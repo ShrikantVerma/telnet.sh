@@ -23,4 +23,4 @@ done < $file
 #Example  1.1.1.1 22
 #         2.2.2.2 80
 #         3.3.3.3 22
-#and uncomment 7th line of script
+#and uncomment 7th line of script and comment the 1st line of script.
