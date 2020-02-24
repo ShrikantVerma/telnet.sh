@@ -1,6 +1,6 @@
 port='22'
 file='ip.txt'
-while read line`
+while read line
 do
   ip=$( echo "$line" |cut -d ' ' -f 1 )
   #ip=`cat ip.txt | awk '{print $1}'`
